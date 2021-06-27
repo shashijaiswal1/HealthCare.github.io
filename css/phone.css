@@ -1,0 +1,54 @@
+#mainheader{
+    display: block;
+    height: 200px;
+}
+
+.left #logo img{
+    /* width: 100px;
+    height: 40px; */
+    margin: auto;
+    display: block;
+    }
+#mainheader .mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+}
+
+#mainheader .right{
+    text-align: center;
+}
+
+.bottom .click{
+    width: 90%;
+   margin: 8px 0;
+}
+
+#links{
+    display: flex;
+    justify-content: center;
+ }
+
+ .footer-sec{
+     height: 1225px;
+}
+
+#links .link-sec{
+  width: 90%;
+ }
+
+.main #text h1{
+    font-size: 11px;
+ } 
+     
+.main #text p{
+      font-size: 4px;
+ } 
+           
+ .main #appointment{
+     width: 60px;
+     height: 8px;
+    font-size:5px ;
+}

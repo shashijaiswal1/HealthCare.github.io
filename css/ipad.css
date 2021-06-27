@@ -1,0 +1,25 @@
+.bottom .click{
+    width: 30%;
+margin: 8px 0;
+}
+
+.bottom{
+    flex-wrap: wrap;
+}
+
+#mainheader .mid a {
+    text-decoration: none;
+    color: #659799;
+    font-weight: 600;
+    font-size: 19px;
+    font-family: 'Baloo Tamma 2', cursive;
+    padding: 0px 25px;
+}
+
+ .main #text h1{
+    font-size: 25px;
+} 
+
+.main #text p{
+font-size: 10px;
+} 

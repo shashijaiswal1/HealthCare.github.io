@@ -1,0 +1,41 @@
+#mainheader{
+    height: 130px;
+    justify-content:center;
+    flex-direction: column;
+    padding: 0 6px;
+   flex-wrap: wrap;
+}
+
+.left #logo img{
+    margin-left: 0;
+    }
+
+#mainheader .mid{
+    margin-right: 0px;
+ }
+
+#mainheader .right{
+    margin-right: 0px;
+}
+
+.main #text h1{
+    font-size: 14px;
+} 
+       
+.main #text p{
+         
+     font-size: 5px;
+ } 
+       
+.main #appointment{
+     width: 88px;
+     height: 10px;
+     font-size:7px ;
+}
+
+#links{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+ }
+

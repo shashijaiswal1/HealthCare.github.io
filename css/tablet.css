@@ -1,0 +1,25 @@
+ #mainheader{
+    height: 130px;
+    padding: 0 10px;
+   flex-wrap: wrap;
+}
+
+.main #text h1{
+  font-size: 19px;
+} 
+
+.main #text p{ 
+  font-size: 8px;
+} 
+
+.main #appointment{
+    width: 140px;
+    height: 20px;
+   font-size:12px ;
+}
+
+#links{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
