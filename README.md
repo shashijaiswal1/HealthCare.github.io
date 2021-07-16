@@ -1,11 +1,7 @@
-# WebOCode-demo-repo
+# HealthCare.github.io
 Front End Web Development
 
-
-# WebOCode | IEEENSUT
-
-A Health Care Website brief description of what this project does and who it's for.
-
+A Health Care Website where user can book appointments and pay their bills online.
 
 
 ## Features
@@ -15,15 +11,6 @@ A Health Care Website brief description of what this project does and who it's f
 - Fullscreen mode
 - Cross platform
 
-  
-## Documentation
-
-Leave a ⭐️ if you liked it!💗.
-
-Concept & Aesthetics Inspired From [Centura Health](https://www.centura.org/) & [Regional One Health](https://www.regionalonehealth.org/)
-
-
-  
 ## How to Use It ? (Usage)
 
 Follow the steps given below to use it:
@@ -42,12 +29,19 @@ Now open index.html file with any of your browser.
 ## Pull requests welcome!
 
 Spotted an error? Something doesn't make sense? Send me a pull request! Thanks!
+
+## Documentation
+
+Leave a ⭐️ if you liked it!💗.
+
+Concept & Aesthetics Inspired From [Centura Health](https://www.centura.org/) & [Regional One Health](https://www.regionalonehealth.org/)
   
   ## Problem & Learnings
 
   Building the site responsive for smaller displays was the biggest challenge i faced. I took the inspiration of overall aesthetics from Centura Health. Design, Button etc, that overall contributes in the look and feel of the site. This is not an actual website, just front-end of a website, However while brainstorming about the idea, I really liked this and probably build an actual HealthTech product out of it later!
 
 I learnt different ways to design a website and how to deploy project on Github. I took help of font awesome and canva to design logo and background images. i also learnt how to build well structured Readme Files.
+
 ## Acknowledgements
 
  - [Icons](https://fontawesome.com/)
