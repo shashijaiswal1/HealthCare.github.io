@@ -17,11 +17,11 @@ Follow the steps given below to use it:
 
 Download this repo as zip file or clone it by running the below command
 
- git clone https://github.com/shashijaiswal1/WebOCode-demo-repo.git
+ git clone https://github.com/shashijaiswal1/HealthCare.github.io.git
 
-Now, open the "Webocode-demo-repo" folder which got created "after clonning" it in the previous step.
+Now, open the "HealthCare.github.io" folder which got created "after clonning" it in the previous step.
 
-cd Webocode-demo-repo
+cd HealthCare.github.io
 
 Now open index.html file with any of your browser.
 
